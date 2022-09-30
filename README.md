@@ -1,0 +1,1 @@
+This exercise from the Odin project will let me show off my very rudimentary HTML skills, like: setting up a boiler-plate, adding and formatting text on a webpage and spicing it up with some images. Nothing fancy :-) Oh and I can practice my awesome git version management skills in the process!
